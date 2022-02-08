@@ -25,3 +25,30 @@ C:\Users\Jacob\source\repos\Willprecht_Week3\Willprecht_Week3\obj\Debug\net6.0\r
 C:\Users\Jacob\source\repos\Willprecht_Week3\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.pdb
 C:\Users\Jacob\source\repos\Willprecht_Week3\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.genruntimeconfig.cache
 C:\Users\Jacob\source\repos\Willprecht_Week3\Willprecht_Week3\obj\Debug\net6.0\ref\Willprecht_Week3.dll
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.csproj.AssemblyReference.cache
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.AssemblyInfoInputs.cache
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.AssemblyInfo.cs
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.csproj.CoreCompileInputs.cache
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.MvcApplicationPartsAssemblyInfo.cs
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.MvcApplicationPartsAssemblyInfo.cache
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.dll
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\refint\Willprecht_Week3.dll
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.pdb
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\appsettings.Development.json
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\appsettings.json
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\Willprecht_Week3.exe
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\Willprecht_Week3.deps.json
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\Willprecht_Week3.runtimeconfig.json
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\Willprecht_Week3.dll
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\Willprecht_Week3.pdb
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\staticwebassets.build.json
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\staticwebassets.development.json
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\scopedcss\bundle\Willprecht_Week3.styles.css
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.csproj.CopyComplete
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\Willprecht_Week3.genruntimeconfig.cache
+D:\SCTCC\Semester 4\C# Programming 2\Week 5\Willprecht_Week3\obj\Debug\net6.0\ref\Willprecht_Week3.dll
