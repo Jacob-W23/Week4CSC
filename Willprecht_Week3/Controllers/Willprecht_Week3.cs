@@ -10,6 +10,7 @@ namespace Willprecht_Week3.Controllers
         [HttpPost(Name = "GetWeatherForecast")]
         public ActionResult<List<string>> IntList(List<int> inputList)
         {
+            LogObject(inputList);
             List<string> rlist = new List<string>();
             List<int> newList = new List<int>();
             int counter = 0;
@@ -47,6 +48,15 @@ namespace Willprecht_Week3.Controllers
                 rlist.Add("Please make sure you are entering numbers into the input.");
             }
             return rlist;
+        }
+
+        private void LogObject(List<int> inputList)
+        {
+            System.Console.WriteLine("Unsorted Values:");
+            foreach (var val in inputList)
+            {
+                System.Console.WriteLine(val);
+            }
         }
     }
 }
